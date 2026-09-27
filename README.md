@@ -16,6 +16,8 @@ The system is designed around a simple safety question:
 > **Is a worker in a restricted work area, and if so, are they wearing
 > the required helmet/PPE?**
 
+LIVE DEMO: https://hazardlensgit-iafe7taujegjrprqpj8g8a.streamlit.app/
+
 ------------------------------------------------------------------------
 
 ## 📌 Table of Contents
